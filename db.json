@@ -12,21 +12,21 @@
             "titulo": "Show Marilia Mendonça",
             "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c8/Marília_Mendonça_-_2017_-_Realidade.jpg",
             "local": "Rua teste",
-            "horario": "10/05/2025"
+            "horario": "11/05/2025"
         },
          {
             "id": 3,
-            "titulo": "Show Marilia Mendonça",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "local": "Rua teste",
-            "horario": "10/05/2025"
+            "titulo": "Show Xuxa",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/f8/Xou_da_Xuxa.JPG/200px-Xou_da_Xuxa.JPG",
+            "local": "Rua teste 3",
+            "horario": "12/05/2025"
         },
          {
             "id": 4,
-            "titulo": "Show Marilia Mendonça",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "local": "Rua teste",
-            "horario": "10/05/2025"
+            "titulo": "Show Kelly Key",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/2/27/Kelly-key-2005.jpg",
+            "local": "Rua teste  4",
+            "horario": "13/05/2025"
         }
        
     ]
